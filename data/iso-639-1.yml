@@ -91,7 +91,6 @@ hr:
   plural_rule_names:
     - one
     - few
-    - many
     - other
 ht:
 hu:
