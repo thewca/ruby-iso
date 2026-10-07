@@ -195,7 +195,7 @@ pl:
   plural_rule_names:
     - one
     - few
-    - other
+    - many
 ps:
 pt:
 qu:
@@ -218,7 +218,6 @@ ru:
     - one
     - few
     - many
-    - other
 rw:
 sa:
 sc:
@@ -276,7 +275,6 @@ uk:
     - one
     - few
     - many
-    - other
 ur:
   direction: rtl
 uz:
